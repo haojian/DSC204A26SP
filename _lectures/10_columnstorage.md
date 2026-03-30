@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2023-04-28
+date: 2026-04-30
 title: Column storage
 tldr: "OLAP, OLTP, Data warehouse, Stars and snowflakes, Column-oriented storage, Materialized views"
 thumbnail: /static_files/presentations/lec.jpg
@@ -9,8 +9,8 @@ links:
     #   name: notes
     # - url: /static_files/presentations/code.zip
     #   name: codes
-    - url: /static_files/presentations/10ColumnStorage.pdf
-      name: Apr. 28-May. 1 slides
+    - url: /static_files/presentations/Week5B.pdf
+      name: Week 5 Slides - B
 ---
 <!-- **Suggested Readings:**
 - [Readings 1](http://example.com)

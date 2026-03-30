@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2023-04-10
+date: 2026-04-09
 title: Memory Hierarchy
 tldr: "The memory abstraction, Locality of reference, The memory hierarchy, Storage technologies and trends"
 thumbnail: /static_files/presentations/lec.jpg
@@ -9,8 +9,8 @@ links:
     #   name: notes
     # - url: 
     #   name: codes
-    - url: /static_files/presentations/4MemoryHierachy.pdf
-      name: Apr. 10 slides
+    - url: /static_files/presentations/Week2B.pdf
+      name: Week 2 Slides - B
 ---
 <!-- **Suggested Readings:**
 - [Readings 1](http://example.com)

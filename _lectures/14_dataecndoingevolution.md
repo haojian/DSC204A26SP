@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2023-05-19
+date: 2026-05-14
 title: Data encoding evolution
 tldr: "JSON/XML/Protobuff/REST/RPC/GraphQL"
 thumbnail: /static_files/presentations/lec.jpg
@@ -9,8 +9,8 @@ links:
     #   name: notes
     # - url: /static_files/presentations/code.zip
     #   name: codes
-    - url: /static_files/presentations/14DataEncoding.pdf
-      name: May. 17 slides
+    - url: /static_files/presentations/Week7B.pdf
+      name: Week 7 Slides - B
 ---
 <!-- **Suggested Readings:**
 - [Readings 1](http://example.com)

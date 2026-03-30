@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2023-04-14
+date: 2026-04-16
 title: File Storage
 tldr: "Data Files, Matrix, Data frames"
 thumbnail: /static_files/presentations/lec.jpg
@@ -9,8 +9,8 @@ links:
     #   name: notes
     # - url: 
     #   name: codes
-    - url: /static_files/presentations/6FileStorage.pdf
-      name: Apr. 14th slides
+    - url: /static_files/presentations/Week3B.pdf
+      name: Week 3 Slides - B
 ---
 <!-- **Suggested Readings:**
 - [Readings 1](http://example.com)

@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2023-04-03
+date: 2026-03-31
 title: Introduction & logistics
 tldr: "Course goals, content, format, pre-requisites, grading"
 thumbnail: /static_files/presentations/week1alec.jpg
@@ -9,8 +9,8 @@ links:
     #   name: notes
     # - url: /static_files/presentations/code.zip
     #   name: codes
-    - url: /static_files/presentations/1Logistics.pdf
-      name: Apr. 3rd Slides
+    - url: /static_files/presentations/Week1A.pdf
+      name: Week 1 Slides - A
 ---
 <!-- **Suggested Readings:**
 - [Readings 1](http://example.com)

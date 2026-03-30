@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2023-06-07
+date: 2026-05-26
 title: Security & Privacy
 tldr: ""
 thumbnail: /static_files/presentations/lec.jpg
@@ -9,8 +9,8 @@ links:
     #   name: notes
     # - url: /static_files/presentations/code.zip
     #   name: codes
-    - url: /static_files/presentations/2023-03-29-MPF
-      name: June 5 slides
+    - url: /static_files/presentations/Week9A.pdf
+      name: Week 9 Slides - A
 ---
 <!-- **Suggested Readings:**
 - [Readings 1](http://example.com)

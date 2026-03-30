@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2023-05-31
+date: 2026-05-21
 title: Stream processing
 tldr: "Spark"
 thumbnail: /static_files/presentations/lec.jpg
@@ -9,8 +9,8 @@ links:
     #   name: notes
     # - url: /static_files/presentations/code.zip
     #   name: codes
-    - url: /static_files/presentations/16StreamProcessing.pdf
-      name: May. 31 slides
+    - url: /static_files/presentations/Week8B.pdf
+      name: Week 8 Slides - B
 ---
 <!-- **Suggested Readings:**
 - [Readings 1](http://example.com)

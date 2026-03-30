@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2023-04-19
+date: 2026-04-23
 title: Basics of Network
 tldr: "An overview of distributed system, basics of network, speed estimate, TCP/UDP, Protocol hourglass"
 thumbnail: /static_files/presentations/lec.jpg
@@ -9,8 +9,8 @@ links:
     #   name: notes
     # - url: /static_files/presentations/code.zip
     #   name: codes
-    - url: /static_files/presentations/8BasicsofNetwork.pdf
-      name: Apr. 19-21 slides
+    - url: /static_files/presentations/Week4B.pdf
+      name: Week 4 Slides - B
 ---
 <!-- **Suggested Readings:**
 - [Readings 1](http://example.com)

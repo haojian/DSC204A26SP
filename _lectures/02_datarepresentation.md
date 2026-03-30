@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2023-04-05
+date: 2026-04-02
 title: Data representation
 tldr: "Digital representation, type casting, float formats"
 thumbnail: /static_files/presentations/lec.jpg
@@ -9,8 +9,8 @@ links:
     #   name: notes
     # - url: /static_files/presentations/code.zip
     #   name: codes
-    - url: /static_files/presentations/2DataRepresentation.pdf
-      name: Apr. 5th Slides
+    - url: /static_files/presentations/Week1B.pdf
+      name: Week 1 Slides - B
 
 ---
 **Suggested Readings:**

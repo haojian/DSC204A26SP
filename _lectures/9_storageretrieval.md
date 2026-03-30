@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2023-04-24
+date: 2026-04-28
 title: Database Indexes
 tldr: "Hashtable indexes, SSTable, LSM, B-tree, In-memory database"
 thumbnail: /static_files/presentations/lec.jpg
@@ -9,8 +9,8 @@ links:
     #   name: notes
     # - url: /static_files/presentations/code.zip
     #   name: codes
-    - url: /static_files/presentations/9DatabaseIndexes.pdf
-      name: Apr. 24-26 slides
+    - url: /static_files/presentations/Week5A.pdf
+      name: Week 5 Slides - A
 ---
 <!-- **Suggested Readings:**
 - [Readings 1](http://example.com)

@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2023-04-07
+date: 2026-04-07
 title: Machine resources
 tldr: "Computer hardware/software, instructions"
 thumbnail: /static_files/presentations/lec.jpg
@@ -9,8 +9,8 @@ links:
     #   name: notes
     # - url: /static_files/presentations/code.zip
     #   name: codes
-    - url: /static_files/presentations/3MachineResources.pdf
-      name: Apr. 7th Slides
+    - url: /static_files/presentations/Week2A.pdf
+      name: Week 2 Slides - A
 ---
 
 **Suggested Readings:**

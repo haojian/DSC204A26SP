@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2023-06-09
+date: 2026-05-28
 title: Review for Final Exam
 tldr: ""
 thumbnail: /static_files/presentations/lec.jpg
