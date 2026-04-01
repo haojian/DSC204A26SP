@@ -22,35 +22,29 @@ A major component of this course is hands-on Python programming to implement dat
 
 ## Course Content and Format
 
-- The class meets 3 times a week for 50-minute lectures in person.
-    <!-- - All lectures will be automatically podcast here afterward. -->
+- The class meets 2 times a week for 80-minute lectures in person.
+    - All lectures will be automatically podcast here afterward.
     - Attending the lectures is not mandatory. But there are Peer Instruction activities involving discussing questions with peers in class only (details below). There will be other interactive activities as well.
     - We will use Piazza for asynchronous discussions and questions.
 
-- 3 Programming Assignments (PAs).
+- 5 Programming Assignments (PAs).
     - See the PAs page for the PA schedule and details.
     - There are no late days for the PAs. Plan your work accordingly.
 
-- 12 Peer Instruction activities via iClickers.
-    - They will be held live in class using iClicker, spread randomly across the quarter.
+- 6-8 Peer Instruction activities.
     - Each activity will have 2 multiple-choice questions (MCQ). Quantitative problems may exist but only the final answer will need to be selected. No partial credits.
     - For each question, you must first answer individually. Then you can discuss the question with you neighbor(s). After that, you can answer the question again.
     - These activities are also open books/notes/electronics/Web.
     - Grading is based on earnest participation in the whole activity.
     - If you miss an activity, you will get no credit for it, unless you notify the instructor in advance with a university approved reason.
-    - You can miss up to 2 activities out of the 12 without losing credit.
-    - Make sure to bring your clicker to every lecture. If you happen to forget it one day, submit your written answers on a sheet.
-    - You are allowed to possess only your own clicker. Using someone else's clicker is an academic integrity violation that will entail serious consequences as listed below.
-- Midterm exam and cumulative final exam.
-    - The midterm exam will be held in person only. The final exam will be held as a Canvas Quiz only. The dates and logistics are listed below.
-    - The exams will have primarily multiple choice questions (MCQ). Quantitative/longer problems wil exist but only the final answer may need to be selected. Some questions will have partial credits.
+    - You can miss up to 1 activity without losing credit.
+- Cumulative final exam.
     - The guideline for time per question is a max of 1min per point. The points of each question will be calibrated accordingly.
     - If you miss an exam, you will get no credit for it, unless you notify the instructor in advance with a university approved reason and receive a makeup exam slot.
-    - The midterm exam is closed books/notes/electronics/Web. You are allowed to keep with you two A4-sized sheets (four sides) with any content you want.
-    - The final exam is open books/Web/etc. The only requirement is you should neither give nor receive help from anyone by any means.
+    - The final exam is closed books/notes/electronics/Web. You are allowed to keep with you two A4-sized sheets (four sides) with any content you want.
 
-- There will be 3 extra credit Peer Evaluation activities delivered via Canvas only. I will announce more details on these in due course.
-- I will release ungraded exercises on the exercises page throughout the quarter. These questions will act as practice for the graded exams and surprise quizzes.
+
+- I will release ungraded exercises on the exercises page throughout the quarter. These questions will act as practice for the graded exams.
 - The discussion slots will be used by the TAs to give talks about the PAs. I might also use them for review discussions before the two exams.
 
 ## Pre-requisites
@@ -62,7 +56,7 @@ Proficiency in Python programming.
 
 ## AI Policy
 
-You are encouraged to use AI tools you like. You may even send the whole assignment in, ask it to help you work on the assignment, pass all the tests, and then submit it.
+You are encouraged to use AI tools you like. 
 
 
 ## Grading
