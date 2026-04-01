@@ -13,7 +13,7 @@ due: 2026-06-10 23:59:00 +0000
 
 In this challenge, you will work on a real machine learning competition from the [AI Coding Gym](https://aicodinggym.com/) platform where frontier AI agents fall short. Your goal is to **outperform the AI baseline** by applying your own domain judgment, iterative experimentation, and strategic use of AI as a collaborative tool.
 
-This is a **Bronze-tier** challenge: AI gets close but not quite. You can win with careful feature engineering, hyperparameter tuning, or domain-informed preprocessing.
+AI gets close but not quite. You can win with careful feature engineering, hyperparameter tuning, or domain-informed preprocessing.
 
 
 ## Learning Loop

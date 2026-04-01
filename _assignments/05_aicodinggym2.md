@@ -11,7 +11,7 @@ due: 2026-06-10 23:59:00 +0000
 
 ## Overview
 
-This is your second AI Coding Gym challenge. Building on the experience from Challenge #1, you will tackle a harder problem -- a **Silver-tier** challenge where the AI makes systematic errors (e.g., wrong cross-validation strategy, failure to handle class imbalance, data leakage). You must diagnose the error pattern and redesign the pipeline.
+This is your second AI Coding Gym challenge. Building on the experience from Challenge #1, you will tackle a harder problem -- a **hard** challenge where the AI makes systematic errors (e.g., wrong cross-validation strategy, failure to handle class imbalance, data leakage). You may diagnose the error pattern and redesign the pipeline.
 
 The goal remains the same: **outperform the AI baseline** on the [AI Coding Gym](https://aicodinggym.com/) platform, but this time you will need deeper diagnostic skills and more strategic intervention.
 
