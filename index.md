@@ -20,6 +20,10 @@ A major component of this course is hands-on Python programming to implement dat
 
 **Instructor**: [Haojian Jin](http://haojianj.in/); Office: HDSI 341; Office Hours: Tue 2:30pm
 
+**TA**: [Xuan Liu](https://xuanl17.github.io/); Office Hours: Thu 2:00-3:00pm
+
+
+
 ## Course Content and Format
 
 - The class meets 2 times a week for 80-minute lectures in person.

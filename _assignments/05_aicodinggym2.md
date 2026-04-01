@@ -38,7 +38,7 @@ Same five-step loop as Challenge #1:
 - You may submit as many times as you like. Your best score will be recorded.
 
 ### 2. Final Report (via Canvas)
-Submit a **2-3 page report** (PDF) on Canvas containing:
+Submit a **3-5 paragraphs report** (PDF) on Canvas containing:
 
 - **AI Inspection Summary**: What systematic errors did the AI agent make? How did you trace them through the agent's reasoning and code?
 

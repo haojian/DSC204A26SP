@@ -38,7 +38,7 @@ Each challenge follows a five-step experiential learning loop:
 - You may submit as many times as you like. Your best score will be recorded.
 
 ### 2. Final Report (via Canvas)
-Submit a **2-3 page report** (PDF) on Canvas containing:
+Submit a **3-5 paragraphs report** (PDF) on Canvas containing:
 
 - **AI Inspection Summary**: What did the AI agent do? What were its key decisions (model, preprocessing, features)? What weaknesses did you identify in its reasoning trace?
 
