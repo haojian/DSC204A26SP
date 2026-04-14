@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mdfind \"kMDItemFSName == 'pdflatex'\")",
+      "Read(//Library/TeX/texbin/**)",
+      "Read(//usr/local/**)",
+      "Bash(brew list:*)"
+    ]
+  }
+}
