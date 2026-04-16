@@ -67,8 +67,8 @@ You are encouraged to use AI tools you like.
 
 **Components**: 
 - Five Programming Assignments: 8% x 5. 
-- Final Exam: 40%
-- In-class Peer Instruction Activities (Optional): 20%. Students can opt out, in which case the Final Exam weight becomes 60%.
+- Final Project: 40%.
+- Quizzes: 20%.
 - Extra Credit Peer Evaluation Activities: 4% (likely)
 
 
