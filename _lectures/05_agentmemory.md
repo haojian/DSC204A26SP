@@ -18,4 +18,4 @@ links:
 
 
 **Suggested Readings:**
-- Ch. 1, 2.1-2.3, 2.12, 4.1, and 5.1-5.5 of CompOrg Book
+- [Memory Overview](https://docs.openclaw.ai/concepts/memory)
