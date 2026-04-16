@@ -1,4 +1,5 @@
 ---
+published: false
 type: lecture
 date: 2026-05-21
 title: Stream processing

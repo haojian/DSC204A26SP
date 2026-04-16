@@ -1,4 +1,5 @@
 ---
+published: false
 type: lecture
 date: 2026-04-23
 title: Basics of Network

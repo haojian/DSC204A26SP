@@ -1,4 +1,5 @@
 ---
+published: false
 type: lecture
 date: 2026-05-28
 title: Review for Final Exam

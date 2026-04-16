@@ -1,8 +1,8 @@
 ---
 type: lecture
 date: 2026-04-14
-title: Process Management
-tldr: "Virtualization, Concurrency, Scheduling policy"
+title: Agent Memory
+tldr: "How to use AI Coding Tools Effectively"
 thumbnail: /static_files/presentations/lec.jpg
 links: 
     # - url: /static_files/presentations/lec.zip
