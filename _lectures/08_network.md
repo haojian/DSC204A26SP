@@ -1,8 +1,8 @@
 ---
-published: false
+published: true
 type: lecture
 date: 2026-04-23
-title: Basics of Network
+title: OS and Process
 tldr: "An overview of distributed system, basics of network, speed estimate, TCP/UDP, Protocol hourglass"
 thumbnail: /static_files/presentations/lec.jpg
 links: 
