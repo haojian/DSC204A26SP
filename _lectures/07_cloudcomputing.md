@@ -1,7 +1,7 @@
 ---
-published: false
+published: true
 type: lecture
-date: 2026-04-21
+date: 2026-04-28
 title: Basics of Cloud Computing
 tldr: "sharing granularity, Cloud computing layers, Advantages of Cloud computing"
 thumbnail: /static_files/presentations/lec.jpg
@@ -10,8 +10,8 @@ links:
     #   name: notes
     # - url: 
     #   name: codes
-    - url: /static_files/presentations/Week4A.pdf
-      name: Week 4 Slides - A
+    - url: /static_files/presentations/Week5A.pdf
+      name: Week 5 Slides - A
 ---
 <!-- **Suggested Readings:**
 - [Readings 1](http://example.com)
