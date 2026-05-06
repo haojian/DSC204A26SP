@@ -32,6 +32,12 @@ title: page.title
       {% if page.demo_notebook %}
       [<a href="{{ page.demo_notebook | prepend: site.baseurl }}">Dask Demo Notebook</a>]
       {% endif %}
+      {% if page.system_setup_summary %}
+      [<a href="{{ page.system_setup_summary | prepend: site.baseurl }}">System Setup Manual</a>]
+      {% endif %}
+      {% if page.startcode %}
+      [<a href="{{ page.startcode | prepend: site.baseurl }}">Starter Code</a>]
+      {% endif %}
     </p>
 
     <div style="color: gray;">
